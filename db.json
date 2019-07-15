@@ -1,0 +1,10 @@
+{
+"events": [
+{ "id": 1, "title": "Concert rock"},
+{ "id": 2, "title": "Concert pop"}
+],
+"details": [
+{ "id": 1, "date": "7.3.19"},
+{ "id": 1, "date": "9.8.19"}
+],
+}
