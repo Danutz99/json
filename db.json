@@ -1,10 +1,16 @@
 {
-"events": [
-{ "id": 1, "title": "Concert rock"},
-{ "id": 2, "title": "Concert pop"}
-],
-"details": {
-{ "id": 1, "date": "7.3.19"}
-{"id": 1, "date": "9.8.19"}
-}
+  "events": {
+    "name": [
+      "Concert Rock",
+      "Concert Pop",
+      "Concert Rap",
+      "Concert Classic"
+    ],
+    "date": [
+      "12.08.2019",
+      "14.10.2019",
+      "16.11.2019",
+      "29.12.2019"
+    ]
+  }
 }
