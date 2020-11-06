@@ -1,5 +1,3 @@
-{
-  \"books\" :
 [
 {
 \"title\":\"My Life\",
@@ -20,4 +18,3 @@
 \"isRead\":false
 }
 ]
-}
